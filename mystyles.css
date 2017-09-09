@@ -1,0 +1,27 @@
+body {
+   padding-top: 0;
+    background: url('images/track-cross-country-scenery.jpg') no-repeat center center fixed; 
+     	background-size: cover;
+}
+
+div.panel-heading {
+	*background: red!important;
+}
+
+.jumbotron {
+
+	margin-bottom: 30px;
+	color: inherit;
+	// background-image: url('images/stpeter.png');
+	// background-position: center;
+	background-color: #337ab7;
+	color: white;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 99%;
+    width: 450px;
+    height: 350px;
+    margin: auto;
+}
