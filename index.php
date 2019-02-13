@@ -33,9 +33,8 @@ require_once('navbar.inc.php');
 
 					<p>Historically, approximately 30 schools and over 700 runners have participated in the event making it one 
 					of the largest Middle School Cross Country Invitationals in the state of Illinois. Participants in this 
-					invitational primarily come from public and private schools in the Chicagoland area.  This year will be the 
-					24th year that St. Peter hosts this wonderful event.  Over the last 2 years, 1,488 runners competed in the 
-					6 different races at the FDM.  These 6 different races (3 boys, 3 girls) range from the highly competitive 
+					invitational primarily come from public and private schools in the Chicagoland area.  This will be the
+					26th annual year that St. Peter hosts this wonderful event.  Over the last 4 years, almost 3000 runners competed in the 6 different races at the FDM.    These 6 different races (3 boys, 3 girls) range from the highly competitive 
 					2 mile race, the moderately competitive 1.5 mile race, and the 1 mile open race.  The event is 
 					highlighted by great competition and wonderful fellowship that supports our student-athletes.  </p> 
 

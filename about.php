@@ -45,11 +45,6 @@ function printRegInfo() {
         <ul>
           <li>Food and beverages will be sold by the St. Peter Athletic Booster Club.
           </li>
-        </ul><hr/>
-
-        <h4>FDM Meet Shirts</h4>
-        <ul>
-            <li>A limited number of FDM XC Invite long sleeved shirts will be on sale at the Concessions stand the day of the meet.</li>
         </ul>
         <hr/>
 
@@ -84,7 +79,6 @@ function printRegInfo() {
             automatically detect lightening within 5 miles of the area.
           </li>
           <li>Any decision to cancel the meet will be made at the park on Saturday morning. 
-            The tentative rain date for this year’s meet is Sunday, October 2nd with the first race starting at noon.
             </li>
           
         </ul>       
